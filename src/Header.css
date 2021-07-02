@@ -1,0 +1,19 @@
+.Header-profile {
+    height: 20vmin;
+    position: relative;
+    top: -10vmin;
+
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.img-box {
+    text-align: center;
+}
+
+.brief-intro {
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+    margin: 0px 0px 10px 0px;
+}

@@ -1,0 +1,22 @@
+.education-title {
+    color: salmon;
+}
+
+.colum1 {
+    width: 200px;
+    display: inline-block;
+    align-items: center;
+}
+
+.colum2 {
+    display: inline-block;
+    
+}
+
+.colum2 div {
+    margin-bottom: 10px;
+}
+
+.colum2-title {
+    font-weight: bold;
+}
