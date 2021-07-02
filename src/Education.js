@@ -16,7 +16,7 @@ function Education(){
                     <div className='colum1'>Nov. 2003</div>
                     <div className='colum2'>
                         <div className='colum2-title'>Professor</div>
-                        <div>Department of Computer Science & Technology, Nanjing University, China</div>
+                        <div>Department of Computer Science & Technology, Nanjing University, China.</div>
                     </div>
                 </div>
 
