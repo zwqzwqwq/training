@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/training/static/css/main.eff32824.chunk.css",
+    "main.js": "/training/static/js/main.030f653d.chunk.js",
+    "main.js.map": "/training/static/js/main.030f653d.chunk.js.map",
+    "runtime-main.js": "/training/static/js/runtime-main.515022fb.js",
+    "runtime-main.js.map": "/training/static/js/runtime-main.515022fb.js.map",
+    "static/js/2.0f8c8c68.chunk.js": "/training/static/js/2.0f8c8c68.chunk.js",
+    "static/js/2.0f8c8c68.chunk.js.map": "/training/static/js/2.0f8c8c68.chunk.js.map",
+    "static/js/3.a3d5f47d.chunk.js": "/training/static/js/3.a3d5f47d.chunk.js",
+    "static/js/3.a3d5f47d.chunk.js.map": "/training/static/js/3.a3d5f47d.chunk.js.map",
+    "index.html": "/training/index.html",
+    "static/css/main.eff32824.chunk.css.map": "/training/static/css/main.eff32824.chunk.css.map",
+    "static/js/2.0f8c8c68.chunk.js.LICENSE.txt": "/training/static/js/2.0f8c8c68.chunk.js.LICENSE.txt",
+    "static/media/头像.2d203bed.jpg": "/training/static/media/头像.2d203bed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.515022fb.js",
+    "static/js/2.0f8c8c68.chunk.js",
+    "static/css/main.eff32824.chunk.css",
+    "static/js/main.030f653d.chunk.js"
+  ]
+}
