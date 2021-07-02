@@ -9,7 +9,7 @@ function Header() {
         </div>
         
         <div className='brief-intro'>
-        Zhi-Hua Zhou, Professor, Computer Science and Artificial Intelligence, Nanjing University, China
+        Zhi-Hua Zhou, Professor, Computer Science and Artificial Intelligence, Nanjing University, China.
         </div>
         
       </div>
